@@ -1,0 +1,11 @@
+Trigger: conversation_start
+Response One set to random:
+What types of offers you like to know about
+I am here to help you to find the best loan suitable for you, which loan type are you looking for?
+I am here to provide information on our loan products, which loan are you interested in
+
+Trigger: anything_else
+Response One set to random:
+I didn't understand that. Ask me about our current loan offerings
+Sorry I'm only trained on our loan offerings. What offer type you like to know about?
+Sorry I can't understand that, I'm just been trained on our loan offerings. What offer type you like to know about?
